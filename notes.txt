@@ -8,7 +8,7 @@ Two ways to create a comment are by placing a pound-sign before the comment on a
 You type python3 in the command line to tell the computer to run it.
 
 4) Demonstrate how I can tell a Python program to display something in the command line.
-
+Use python3 to display something
 5) What can we use to save a value for later use in our code? Provide an example.
 
 6) What can I do to prevent certain files and directories from being tracked by git?
